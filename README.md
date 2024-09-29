@@ -231,6 +231,9 @@ INSERT INTO Department (name, description) VALUES
 
 
 Evaluation Criteria:
+
+
+
 Functionality: Does the application meet all the specified requirements?
 Code Quality: Is the code well-organized, readable, and maintainable?
 UI/UX Design: Is the user interface intuitive and visually appealing?
